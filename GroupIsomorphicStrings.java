@@ -35,7 +35,6 @@ public class GroupIsomorphicStrings {
 		}
 		return sb.toString();
 	}
-
 	public static void main(String[] args) {
 		String[] input = { "apple", "apply", "dog", "cog", "cod", "romi" };
 		List<List<String>> res = isomorphic(input);
