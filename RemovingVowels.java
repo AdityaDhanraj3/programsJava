@@ -1,5 +1,9 @@
 package project1;
+/**
+ * As usual, you need to think about what you are asked to do and what you are given. You are given a string. You need to remove the vowels from the string.
+This problem defines a vowel as : 'a', 'e', 'i', 'o', 'u'.
 
+ */
 import java.util.HashSet;
 import java.util.Set;
 
