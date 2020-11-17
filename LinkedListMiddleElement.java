@@ -47,12 +47,12 @@ public class LinkedListMiddleElement {
 		}
 	}
 
-	static void findMiddleElementV2(Node head) {
+	static void findMiddleElementV2(Node head) { 
 
 		/**
 		 * In this approach, we will have two node references. First node, we increment
-		 * by two steps Second node, we increment ny one step. At the end we get the
-		 * middle element ny second node.
+		 * by two steps Second node, we increment by one step. At the end we get the
+		 * middle element by second node.
 		 */
 		Node singIncNode = head;
 		Node doubIncNode = head;
