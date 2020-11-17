@@ -26,7 +26,6 @@ public class KadanesAlgorithm {
 			sum = Math.max(nums[i], sum + nums[i]);
 			result = Math.max(result, sum);
 		}
-
 		return result;
 	}
 
