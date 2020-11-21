@@ -1,4 +1,9 @@
 package project2;
+/**
+ * Write a program to implement your own ArrayList class. It should
+contain add(), get(), remove(), size() methods. Use dynamic array logic.
+It should increase its size when it reaches threshold.
+ */
 	import java.io.*; 
 	import java.util.*; 
 	  
