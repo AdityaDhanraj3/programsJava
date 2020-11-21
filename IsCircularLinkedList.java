@@ -1,5 +1,20 @@
 package project2;
+/**
+ * Problem Description:
+Write a program to check given singly linked list is a circular linked list or not.
 
+Circular linked list is a sequence of elements in which every element has link to its next element in
+ the sequence and the last element has a link to the first element in the sequence.
+
+Algorithm:
+
+Traverse from head node.
+Compare the current node with its next node.
+If the data of the next node is same as current nodes data, then delete the next node.
+Update current nodes next pointer to next nodes next value.
+ * @author adity
+ *
+ */
 public class IsCircularLinkedList {
 	public static class Node {
 		int data;
