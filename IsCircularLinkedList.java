@@ -33,10 +33,8 @@ public class IsCircularLinkedList {
 		do {
 			temp = temp.next;
 		} while (temp != null && temp != head);
-		{
+		
 			return (temp == head);
-		}
-
 	}
 
 	public static void main(String[] args) {
