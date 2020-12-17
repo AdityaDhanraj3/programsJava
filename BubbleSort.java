@@ -42,3 +42,11 @@ public class BubbleSort {
 	}
 
 }
+
+OUTPUT: 
+ 15
+ 18
+ 20
+ 25
+ 30
+
