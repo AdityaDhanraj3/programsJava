@@ -56,3 +56,5 @@ public class AreaOfOverlappingRectangle {
 	}
 
 }
+
+OUTPUT : overlapping
