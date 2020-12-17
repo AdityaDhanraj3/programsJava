@@ -44,8 +44,8 @@ Our Approach
 
 2) Now traverse the expression string character by character.
 
-If the current character is a opening bracket (‘(‘ or ‘{‘ or ‘[‘) then push it to stack.
-If the current character is a closing bracket (‘)’ or ‘}’ or ‘]’) then pop character from stack and if the popped character is the matching opening bracket then fine else parenthesis are not balanced.
+If the current character is a opening bracket (â€˜(â€˜ or â€˜{â€˜ or â€˜[â€˜) then push it to stack.
+If the current character is a closing bracket (â€˜)â€™ or â€˜}â€™ or â€˜]â€™) then pop character from stack and if the popped character is the matching opening bracket then fine else parenthesis are not balanced.
 3) After complete traversal, if there the stack is not empty, then the expression is not balanced.
  */
 import java.util.HashMap;
@@ -82,3 +82,6 @@ public class BalancedExpression {
 	}
 
 }
+
+OUTPUT:
+ YES
