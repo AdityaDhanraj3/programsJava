@@ -34,3 +34,6 @@ public class CountPrimes {
 	}
 
 }
+
+OUTPUT:
+4
