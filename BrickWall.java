@@ -61,3 +61,6 @@ public class BrickWall {
 	}
 
 }
+
+OUTPUT:
+2
