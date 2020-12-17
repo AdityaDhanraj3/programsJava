@@ -211,3 +211,32 @@ public class BstImpl {
 	}
 
 }
+
+OUTPUT : 
+ -> inserted 39
+ -> 39 [R]  -> inserted: 45
+
+ -> 39 [L]  -> inserted: 23
+
+ -> 39 [L]  -> 23 [L]  -> inserted: 9
+
+ -> 39 [R]  -> 45 [R]  -> inserted: 366
+
+ -> 39 [R]  -> 45 [R]  -> 366 [L]  -> inserted: 124
+
+ -> 39 [R]  -> 45 [R]  -> 366 [L]  -> 124 [L]  -> inserted: 90
+
+ -> 39 [R]  -> 45 [R]  -> 366 [L]  -> 124 [L]  -> 90 [L]  -> inserted: 46
+
+-------------------
+Level order traversal
+39 23 45 9 366 124 90 46 
+-------------------
+Pre Order Traversal
+39 23 9 45 366 124 90 46 
+-------------------
+In Order Traversal
+9 23 39 45 46 90 124 366 
+-------------------
+Post Order Traversal
+9 23 46 90 124 366 45 39 
