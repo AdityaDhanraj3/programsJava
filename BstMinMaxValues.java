@@ -122,3 +122,23 @@ public class BstMinMaxValues {
 	}
 
 }
+
+OUTPUT : 
+-> inserted 10
+ -> 10 [R]  -> inserted: 20
+
+ -> 10 [R]  -> 20 [R]  -> inserted: 21
+
+ -> 10 [L]  -> inserted: 8
+
+ -> 10 [L]  -> 8 [L]  -> inserted: 6
+
+ -> 10 [R]  -> 20 [L]  -> inserted: 16
+
+ -> 10 [R]  -> 20 [R]  -> 21 [R]  -> inserted: 23
+
+ -> 10 [L]  -> 8 [L]  -> 6 [L]  -> inserted: 2
+
+-------------------
+Min value: 2
+Max value: 23
