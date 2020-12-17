@@ -41,3 +41,10 @@ public class Anagram {
 		System.out.println(isAnagram("listen", "silent"));
 	}
 }
+
+OUTPUT :    eilnst
+            eilnst
+            true
+
+
+
