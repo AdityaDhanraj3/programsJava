@@ -89,3 +89,13 @@ public class GroupIsomorphicStrings {
 
 }
 
+OUTPUT:
+apply 13345
+dog 123
+cog 123
+cod 123
+romi 1234
+[[dog, cog, cod], [romi], [apple, apply]]
+
+two strings are isomorphic :true
+
