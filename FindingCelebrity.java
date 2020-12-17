@@ -47,3 +47,8 @@ public class FindingCelebrity extends Relation {
 	}
 
 }
+
+OUTPUT:
+0
+-1
+
