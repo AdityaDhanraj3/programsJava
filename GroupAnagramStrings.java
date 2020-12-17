@@ -84,3 +84,9 @@ public class GroupAnagramStrings {
 	}
 
 }
+
+OUTPUT:
+[eat, ate, tea]
+[bat, tab]
+[apple]
+both strings are anagrams true
