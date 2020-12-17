@@ -47,3 +47,6 @@ public class FindTheSmallestWindowToBeSorted {
 	}
 
 }
+
+OUTPUT:
+sort array from index :3 to index : 6
