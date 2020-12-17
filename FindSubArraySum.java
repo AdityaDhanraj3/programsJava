@@ -34,3 +34,6 @@ public class FindSubArraySum {
 	}
 
 }
+
+OUTPUT:
+subArray found between 3.....5
