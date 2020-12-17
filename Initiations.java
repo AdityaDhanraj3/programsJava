@@ -258,3 +258,51 @@ public class Initiations {
 	}
 
 }
+
+OUTPUT:
+Element at index 0 : 10
+Element at index 1 : 20
+Element at index 2 : 30
+Element at index 3 : 40
+Element at index 4 : 50
+1
+2
+3
+4
+5
+Points
+[50, 29, 35, 11, 78, 64, 89, 67]
+Points (ascending order)
+[11, 29, 35, 50, 64, 67, 78, 89]
+Points
+[50, 29, 35, 11, 78, 64, 89, 67]
+Points (ascending order)
+[11, 29, 35, 50, 64, 67, 78, 89]
+ArrayList : [1, 3]
+LinkedList : [2, 4]
+List : [1, 2, 3, 4]
+List : [1, 2, 3]
+List : [1, 2, 3]
+Trying to modify the list
+Exception : java.lang.UnsupportedOperationException
+List : [2]
+List : [1, 2, 3]
+List using Syntax 1: [1, 2, 3]
+List using Syntax 2: [3, 2, 1]
+List using Syntax 3: [1, 2, 3, 4]
+[1, 2, 3, 4, 5, 6]
+[1, 2, 3, 4, 5, 6]
+[1, 2, 3, 4, 5, 6]
+[1, 2, 3, 4, 5, 6]
+100 Amit
+101 Vijay
+102 Rahul
+100=Amit
+101=Vijay
+102=Rahul
+100=Amit
+102=Rahul
+101=Vijay
+C Programming
+C++ Programming
+Java Programming
