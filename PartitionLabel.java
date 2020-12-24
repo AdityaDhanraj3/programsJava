@@ -44,3 +44,6 @@ public class PartitionLabel {
 	}
 
 }
+
+OUTPUT :
+[9, 7, 8]
