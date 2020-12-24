@@ -41,3 +41,6 @@ public class MyBinarySearch {
 	}
 
 }
+
+OUTPUT :
+key 14's position :6
