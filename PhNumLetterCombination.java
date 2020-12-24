@@ -52,3 +52,7 @@ public class PhNumLetterCombination {
 		
 	}
 }
+
+OUTPUT :
+[ad, ae, af, bd, be, bf, cd, ce, cf]
+
