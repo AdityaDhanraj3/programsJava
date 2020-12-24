@@ -52,3 +52,6 @@ public class RobbingHouse {
 	}
 
 }
+
+OUTPUT :
+12
