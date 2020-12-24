@@ -21,3 +21,6 @@ public class PrimeNumbers {
 	}
 
 }
+
+OUTPUT :
+the number is prime
