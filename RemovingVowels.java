@@ -37,3 +37,6 @@ public class RemovingVowels {
 	}
 
 }
+
+OUTPUT :
+gd fld plcmnt
