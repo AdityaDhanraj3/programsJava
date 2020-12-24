@@ -37,3 +37,6 @@ public class KadanesAlgorithm {
 	}
 
 }
+
+OUTPUT :
+6
