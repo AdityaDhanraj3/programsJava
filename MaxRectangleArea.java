@@ -48,3 +48,6 @@ public class MaxRectangleArea {
 	}
 
 }
+
+OUTPUT :
+12
