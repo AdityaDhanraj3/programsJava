@@ -52,3 +52,6 @@ public class IsCircularLinkedList {
 	}
 
 }
+
+OUTPUT :
+is CircularLinkedList false
