@@ -42,3 +42,8 @@ public class ProductOfArrayExceptSelf {
 	}
 
 }
+
+OUTPUT :
+12
+8
+6
