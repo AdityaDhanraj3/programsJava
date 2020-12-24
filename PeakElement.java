@@ -43,3 +43,6 @@ public class PeakElement {
 	 System.out.println(findPeakElement(nums));
 }
 }
+
+OUTPUT :
+3
