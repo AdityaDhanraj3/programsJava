@@ -38,3 +38,13 @@ public static void main(String[] args) {
 	selectionSort(arr);
 }
 }
+
+
+OUTPUT :
+52
+ 9
+ 18
+ 38
+ 62
+ 13
+ 6
