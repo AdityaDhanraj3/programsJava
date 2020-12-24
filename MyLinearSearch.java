@@ -37,3 +37,8 @@ public class MyLinearSearch {
 	}
 
 }
+
+OUTPUT :
+key 14 found at index 6
+key 18 found at index 5
+
