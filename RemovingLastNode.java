@@ -71,3 +71,7 @@ public class RemovingLastNode {
         printLinkedList(n1);
     }
 }
+
+OUTPUT :
+Initial linked list : 23 29 29 45 45 45 54 
+Linked list after removing last node: 23 29 29 45 45 45 
