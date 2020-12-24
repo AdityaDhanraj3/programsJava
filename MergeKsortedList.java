@@ -90,3 +90,12 @@ public class MergeKsortedList {
 	}
 
 }
+
+OUTPUT :
+-1 
+2 
+3 
+4 
+4 
+5 
+6 
