@@ -28,3 +28,6 @@ if(recordStr1[charStr1] == 0) {
 	}
 
 }
+
+OUTPUT:
+true
